@@ -89,7 +89,7 @@ The number of # defines the header-type and indentation.
 
 Task:
 
-Try to add hash-tags in front of the header and experiment with it.
+Try to add hash-tags in front of the header and experiment with it..
 
 ### Paragraphs
 
